@@ -1,2 +1,2 @@
 # School-Day
-Start tu study.
+Start to study.
